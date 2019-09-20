@@ -1,0 +1,11 @@
+{
+  "cluster_pesr_algorithm.svtypes": "String",
+  "cluster_pesr_algorithm.flags": "String",
+  "cluster_pesr_algorithm.svsize": "Int",
+  "cluster_pesr_algorithm.frac": "Float",
+  "cluster_pesr_algorithm.dist": "Int",
+  "cluster_pesr_algorithm.algorithm": "String",
+  "cluster_pesr_algorithm.contigs": "File",
+  "cluster_pesr_algorithm.vcfs": "Array[File]",
+  "cluster_pesr_algorithm.batch": "String"
+}

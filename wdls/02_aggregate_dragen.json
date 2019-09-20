@@ -1,0 +1,28 @@
+{
+  "assess_evidence_batch.RD_split_size": "10",
+  "assess_evidence_batch.PE_split_size": "10",
+  "assess_evidence_batch.SR_split_size": "10",
+  "assess_evidence_batch.BAF_split_size": "10",
+
+  "assess_evidence_batch.baf_metrics": "File",
+  "assess_evidence_batch.baf_metrics_idx": "File",
+
+  "assess_evidence_batch.coveragefile": "File",
+  "assess_evidence_batch.coveragefile_idx": "File",
+
+  "assess_evidence_batch.splitfile": "File",
+  "assess_evidence_batch.splitfile_idx": "File",
+
+  "assess_evidence_batch.discfile": "File",
+  "assess_evidence_batch.discfile_idx": "File",
+  "assess_evidence_batch.samples": "Array[String]",
+
+  "assess_evidence_batch.famfile": "File",
+  "assess_evidence_batch.batch": "1",
+  "assess_evidence_batch.allosome_contigs": "File",
+  "assess_evidence_batch.autosome_contigs": "File",
+  "assess_evidence_batch.medianfile": "File",
+  "assess_evidence_batch.mantavcf": "/cluster/home/qinqian/yangfan/phaseC_SV/src/wdls/cromwell-executions/cluster_pesr_algorithm/9cf6039d-cfee-47e9-b2b2-9c9358d440db/call-concat_vcfs/execution/s394g01018.manta.vcf.gz",
+  "assess_evidence_batch.segdups": "/cluster/home/qinqian/yangfan/phaseC_SV/input/hg38_segdups.bed",
+  "assess_evidence_batch.rmsk": "/cluster/home/qinqian/yangfan/phaseC_SV/input/hg38_rmask"
+}

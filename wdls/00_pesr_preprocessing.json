@@ -1,0 +1,8 @@
+{
+  "preprocess_pesr.min_svsize": "Int",
+  "preprocess_pesr.delly_vcf": "File",
+  "preprocess_pesr.melt_vcf": "File",
+  "preprocess_pesr.contigs": "File",
+  "preprocess_pesr.sample": "String",
+  "preprocess_pesr.manta_vcf": "File"
+}

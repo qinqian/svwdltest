@@ -1,0 +1,6 @@
+{
+  "bincov.outDir": "String",
+  "bincov.mask": "File",
+  "bincov.contigList": "File",
+  "bincov.inputSamplesFile": "File"
+}

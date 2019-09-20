@@ -1,0 +1,6 @@
+{
+  "manta.refFasta": "File",
+  "manta.refFastafai": "File",
+  "manta.inputSamplesFile": "File",
+  "manta.outputDir": "String"
+}

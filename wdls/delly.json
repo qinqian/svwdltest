@@ -1,0 +1,6 @@
+{
+  "delly.inputSamplesFile": "File",
+  "delly.refFastafai": "File",
+  "delly.refFasta": "File",
+  "delly.outDir": "String"
+}

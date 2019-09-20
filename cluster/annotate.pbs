@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#PBS -q q1
+#PBS -l nodes=1:ppn=24
+#PBS -N bwakit
+#PBS -o job.log
+#PBS -e job.err
+#PBS -l walltime=1000:00:00
+
+cd $PBS_O_WORKDIR 
+
+if [ ${1/.bcf// == $1 ];then
+    bcftools view $1 > ${2}.vcf
+else
+    zcat $1 > ${2}.vcf
+fi
+svtk standardize --prefix ${2}_standard --contigs $3 ${2}.vcf ${2}_standard.vcf $4
+

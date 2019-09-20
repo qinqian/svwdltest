@@ -1,0 +1,1 @@
+{"delly.inputSamplesFile": "/cluster/home/qinqian/yangfan/phaseC_SV/input/bunny_BAM_DD_final.txt", "delly.refFastafai": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta.fai", "delly.refFasta": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta", "delly.outDir": "/cluster/home/qinqian/yangfan/phaseC_SV/dump/delly/DD_neg"}

@@ -1,0 +1,7 @@
+{
+  "melt.refFastafai": "File",
+  "melt.inputSamplesFile": "File",
+  "melt.refFasta": "File",
+  "melt.outputDir": "String",
+  "melt.MELT": "File"
+}

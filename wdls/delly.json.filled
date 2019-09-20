@@ -1,0 +1,6 @@
+{
+    "delly.inputSamplesFile": "/cluster/home/qinqian/yangfan/phaseC_SV/input/test_s394g01018_batch_bam.txt",
+    "delly.refFastafai": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta.fai",
+    "delly.refFasta": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta",
+    "delly.outDir": "/cluster/home/qinqian/yangfan/phaseC_SV/dump/delly/s394g01018"
+}

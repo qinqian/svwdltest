@@ -1,0 +1,4 @@
+{
+  "vcf2baf.outputDir": "String",
+  "vcf2baf.inputSamplesFile": "File"
+}

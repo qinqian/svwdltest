@@ -1,0 +1,1 @@
+{"manta.refFasta": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta", "manta.refFastafai": "/cluster/apps/refseq/GATK/hg38/Homo_sapiens_assembly38.fasta.fai", "manta.inputSamplesFile": "/cluster/home/qinqian/yangfan/phaseC_SV/input/bunny_BAM_DD_final_left.txt", "manta.outputDir": "/cluster/home/qinqian/yangfan/phaseC_SV/dump/manta/DD_negative"}
